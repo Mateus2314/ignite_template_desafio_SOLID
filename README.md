@@ -14,7 +14,9 @@
 </p>
 ## :rocket: Sobre o desafio
 
-Nesse desafio o objetivo é corrigir, implementar novas funcionalidades ou refatorar as que já existem de uma aplicação que gerencia repositórios de projetos.
+Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no Node.js!
+
+Essa será uma aplicação de listagem e cadastro de usuários. Para que a listagem de usuários funcione, o usuário que solicita a listagem deve ser um admin (mais detalhes ao longo da descrição).
 
 ### :keyboard: Instalação e Execução do Projeto
 
